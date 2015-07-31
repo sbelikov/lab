@@ -1,5 +1,5 @@
 # lab
 
-purely for experimenting
+Purely for experimenting
 
 ## reactive
